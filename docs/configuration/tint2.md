@@ -27,6 +27,6 @@ Some alternative Tint2 configs are shipped with Mabox, and you can add your own 
 
 ## Tint2conf - gui configuration tool
 
-
+qqq no content
 
 [^1]: This tool was written by BunsenLabs and adapted for Mabox
