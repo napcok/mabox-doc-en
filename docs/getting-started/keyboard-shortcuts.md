@@ -14,7 +14,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |++super+right++| Halfscreen Right|
 |++super+home++| Maximize|
 |++f11++ , ++super+enter++| toggle fullscreen|
-
+qqq elsewhere you mention alt+F6 for maximize as well
 
 
 ##Keybindings for desktop switching
@@ -50,7 +50,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |NextWindow             |       ++alt+tab++|
 |PreviousWindow         |      ++alt+shift+tab++|
 |NextWindow             |      ++ctrl+alt+tab++|
-
+qqq ctrl+alt+tab doesn't work
 
 ##Menus and SidePanels
 
