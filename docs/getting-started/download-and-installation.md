@@ -45,6 +45,8 @@ sudo fdisk -l
 
 !!! hint "Use open-source or propertiary drivers"
     While booting the installation media you can choose to use **open source** or **properietary drivers** .
+    
+    QQQ Maybe some explanation on the preferabilty of opensource vs properietary
 
 ![Live session boot screen](../img/Mabox_boot_live.jpg "Live session boot screen")
 
@@ -53,6 +55,7 @@ Mabox uses **Calamares** installer, so installation is done from a live session.
 
 As Mabox Linux is based on Manjaro, for the installation process you can use very good and detailed Manjaro User Guide.
 
+    QQQ I think this would be more userfriendly to open to new tab by default
 [:fontawesome-solid-book: Download Manjaro User Guide (PDF)](https://osdn.net/projects/manjaro/storage/){ .md-button .md-button--primary }
 
 <div class="gal">
