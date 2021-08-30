@@ -28,10 +28,12 @@ Some of Terminator features:
 ++alt+"Arrows"++ – move directly between terminals, similarly ++ctrl+shift+tab++ and ++ctrl+shift+n++ or ++ctrl+shift+p++
 
 ++ctrl+shift+"Arrows"++ – change the size of the terminal
+qqq does something strange
 
 ++ctrl+shift+x++ – zoom active terminal (toggle)
 
 ++super+r++ / ++super+shift+r++ – change the mutual position of the panels (terminals) clockwise or counterclockwise
+qqq launches pyradio
 
 ++ctrl+shift+w++ – close terminal
 
