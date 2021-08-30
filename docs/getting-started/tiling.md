@@ -44,7 +44,7 @@ With ++super+"keypad keys"++ you can also resize and move window to corner or ed
 ++super+b++ - toggle window decorations
 
 ++alt+f6++ - toggle maximize
-
+  qqq in the section on shortcuts, you mention super+home as well
 
 
 ## Clik to snap
