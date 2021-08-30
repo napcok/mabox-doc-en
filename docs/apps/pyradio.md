@@ -23,3 +23,6 @@ It uses MPV, Mplayer or VLC to play streams.
 |++3++ ++g++	|go to 3th station|
 |++space++ / ++left++ / ++h++ |	stop/start playing selected station|
 |++esc++ / ++q++	|quit|
+
+
+qqq webpage converts these to Capitaled letters. Bit confusing since the shortcuts are lowercase
