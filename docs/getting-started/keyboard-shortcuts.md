@@ -31,7 +31,7 @@ qqq elsewhere you mention alt+F6 for maximize as well
 |GoTo fourth Desktop       |    ++super+4++|
 |ToggleShowDesktop         |    ++super+d++|
 
-
+qqq super+shift+number deserves a mention too
 ##Keybindings for windows
 
 
