@@ -42,9 +42,9 @@ nav:
 #        - themes.sh: apps/themes.sh.md
 #        - fpf - fuzzy package finder: apps/fpf.md
 #        - ytfzf - YT from terminal: apps/ytfzf.md
-#      - Other Apps:
+      - Other Apps:
 #        - GKrellm: apps/gkrellm.md
-#        - Volume Icon: apps/volume-icon.md
+        - Volume Icon: apps/volume-icon.md
     - Extras & Helpers:
       - Screenshot tool: extras/screenshot-tool.md
       - Command Palette: extras/command-palette.md
