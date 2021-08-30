@@ -99,9 +99,15 @@ markdown_extensions:
         emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   social:
-    - icon: fontawesome/brands/facebook
+    - icon: material/home
+      link: https://maboxlinux.org
+      name: Mabox Linux Website
+    - icon: material/forum
+      link: https://forum.maboxlinux.org
+      name: Mabox Linux Forum
+    - icon: material/facebook
       link: https://www.facebook.com/maboxlinux/
       name: Mabox on Facebook
-    - icon: fontawesome/brands/youtube
+    - icon: material/youtube
       link: https://www.youtube.com/c/MaboxLinux
       name: Mabox on Youtube
