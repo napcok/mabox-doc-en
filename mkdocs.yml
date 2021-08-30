@@ -1,0 +1,107 @@
+site_name: Mabox Linux Manual
+site_url: https://manual.maboxlinux.org/mabox-doc-en/
+site_author: Daniel Napora
+repo_url: https://github.com/napcok/mabox-doc-en
+repo_name: mabox-doc-en
+copyright: Copyright &copy; 2021 Daniel Napora
+nav:
+    - Home: index.md
+    - Getting Started:
+      - Download and installation: getting-started/download-and-installation.md
+      - First run: getting-started/first-run.md
+      - Introduction to Mabox Linux Desktop: getting-started/intro-desktop.md
+      - Software Management: getting-started/software-management.md
+      - Windows Tiling: getting-started/tiling.md
+      - Keyboard shortcuts: getting-started/keyboard-shortcuts.md
+    - Configuration:
+      - Settings Menu: configuration/settings-menu.md
+      - Mabox Control Center: configuration/mcc.md
+      - Autostart: configuration/autostart.md
+      - Theming:
+        - Theme Manager: configuration/theme-manager.md
+        - GTK / Openbox / Icon theme: configuration/lxappearance.md
+        - Wallpaper: configuration/wallpapers.md
+        - Tint2 panel: configuration/tint2.md
+        - Menu / Sidepanels: configuration/menu-sidepanels.md
+        - Conky: configuration/conky.md
+    - System maintenance:
+      - Updates: maintenance/updates.md
+      - Kernels: maintenance/kernels.md
+      - mb-reset script: maintenance/mb-reset.md
+    - Applications:
+      - Default/Preferred Apllications: apps/preferred-apps.md
+      - PcmanFM - file manager: apps/pcmanfm.md
+      - Terminator - terminal emulator: apps/terminator.md
+      - Geany - text editor/IDE: apps/geany.md
+      - FSearch - search utility: apps/fsearch.md
+#      - Audacious - music player: apps/audacious.md
+#      - MPV - media player: apps/mpv.md
+      - CLI Apps/tools:
+        - PyRadio - cli internet radio player: apps/pyradio.md
+        - fzf - fuzzy finder: apps/fzf.md
+#        - themes.sh: apps/themes.sh.md
+#        - fpf - fuzzy package finder: apps/fpf.md
+#        - ytfzf - YT from terminal: apps/ytfzf.md
+#      - Other Apps:
+#        - GKrellm: apps/gkrellm.md
+#        - Volume Icon: apps/volume-icon.md
+    - Extras & Helpers:
+      - Screenshot tool: extras/screenshot-tool.md
+      - Command Palette: extras/command-palette.md
+      - Logout Dialog: extras/mblogout.md
+      - Espanso - text expander: extras/espanso.md
+      - DesktopGrid: extras/desktopgrid.md
+
+extra_css:
+  - css/extra.css
+  - assets/simpleLightbox.min.css
+extra_javascript:
+  - assets/simpleLightbox.min.js
+  - assets/main.js
+theme:
+  name: material
+  logo: assets/3D_logo.png
+  favicon: assets/3D_logo.png
+  custom_dir: overrides
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+    - abbr
+    - meta
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.keys
+    - footnotes
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/maboxlinux/
+      name: Mabox on Facebook
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/MaboxLinux
+      name: Mabox on Youtube
