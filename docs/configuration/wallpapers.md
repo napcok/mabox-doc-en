@@ -38,6 +38,6 @@ UNDOCUMENTED AT THE MOMENT, AS THIS TOOL WILL BE REWRITTEN SOON...
 
     ```
     cd
-    git clone https://gitlab.com/dwt1/wallpapers.git
+    git clone https://gitlab.com/dwt1/wallpapers.git ~/.local/wallpapers
     ```
-    All wallpapers go to wallpapers dit in your home directory `~/wallpapers`.
+    All wallpapers go to wallpapers dir in your home directory `~/.local/wallpapers`.

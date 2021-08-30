@@ -43,7 +43,7 @@ With ++super+"keypad keys"++ you can also resize and move window to corner or ed
 
 ++super+b++ - toggle window decorations
 
-++alt+f6++ - toggle maximize
+++alt+f6++ , ++super+home++ - toggle maximize
 
 
 
@@ -64,4 +64,4 @@ This works with active and inactive windows, therefore it is very quick way to p
 
 Note there are a gap between windows. A gap is configurable and is a part of [DesktopGrid](../../extras/desktopgrid) Mabox feature.
 
-Use ++ctrl+shift+"numpad keys 1 to 9"++ to achieve the same effect wothout using mouse.
+Use ++ctrl+shift+"numpad keys 1 to 9"++ to achieve the same effect without using mouse.

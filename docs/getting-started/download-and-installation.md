@@ -53,7 +53,7 @@ Mabox uses **Calamares** installer, so installation is done from a live session.
 
 As Mabox Linux is based on Manjaro, for the installation process you can use very good and detailed Manjaro User Guide.
 
-[:fontawesome-solid-book: Download Manjaro User Guide (PDF)](https://osdn.net/projects/manjaro/storage/){ .md-button .md-button--primary }
+[:fontawesome-solid-book: Download Manjaro User Guide (PDF)](https://osdn.net/projects/manjaro/storage/){ .md-button .md-button--primary target=blank}
 
 <div class="gal">
     <a href="../../img/calamares2.jpg" title="Calamares installer - Welcome"><img src="../../img/calamares2.jpg" alt="Calamares installer - Welcome" /></a>

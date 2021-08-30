@@ -29,7 +29,7 @@ nav:
       - Kernels: maintenance/kernels.md
       - mb-reset script: maintenance/mb-reset.md
     - Applications:
-      - Default/Preferred Apllications: apps/preferred-apps.md
+      - Default/Preferred Applications: apps/preferred-apps.md
       - PcmanFM - file manager: apps/pcmanfm.md
       - Terminator - terminal emulator: apps/terminator.md
       - Geany - text editor/IDE: apps/geany.md

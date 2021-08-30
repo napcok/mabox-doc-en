@@ -12,7 +12,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |++super+down++| Halfscreen Bottom|
 |++super+left++| Halfscreen Left|
 |++super+right++| Halfscreen Right|
-|++super+home++| Maximize|
+|++super+home++, ++alt+f6++| Maximize|
 |++f11++ , ++super+enter++| toggle fullscreen|
 
 
@@ -29,8 +29,12 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |GoTo second Desktop       |    ++super+2++|
 |GoTo third Desktop        |    ++super+3++|
 |GoTo fourth Desktop       |    ++super+4++|
+|Send to Desktop No        |    ++super+1++ , ++2++, ++3++ or ++4++|
 |ToggleShowDesktop         |    ++super+d++|
 
+!!! note "Add/remove desktops"
+    There are only two virtual desktops by default in Mabox.
+    You can add more or remove desktops by: *middle click on desktop* -> *Manage desktops*
 
 ##Keybindings for windows
 
@@ -42,6 +46,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |ShowMenu               |       ++alt+space++|
 
 
+
 ##Keybindings for window switching
 
 
@@ -49,7 +54,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 | --- | --- |
 |NextWindow             |       ++alt+tab++|
 |PreviousWindow         |      ++alt+shift+tab++|
-|NextWindow             |      ++ctrl+alt+tab++|
+
 
 
 ##Menus and SidePanels
