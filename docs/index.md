@@ -10,7 +10,7 @@ Welcome to the Mabox Manual! This is official reference book for using Mabox. Th
 
 The project's goals are:
 
-- provide **lightweight, fast** and **ready to use** Linux Desktop, which works nicely even on weaker computers. Mabox provides preconfigured Openbox WM with addition of some handy home-made tools that help present a streamlined desktop
+- provide **lightweight, fast** and **ready to use** Linux Desktop, which works nicely even on weaker computers.
 
 - being based on **solid and stable** foundations, enable **quick access** to the **latest software versions**
 
@@ -34,7 +34,7 @@ Mabox is *rolling-release* distribution based on **Manjaro**.
 
 ## What Desktop Environment Mabox use?
 There is no fully blown integrated DE in Mabox.
-Mabox is build on top of OpenBox WM with addition of carefully selected, lightweight and highly configurable components.
+Mabox is build on top of OpenBox WM with addition of carefully selected, lightweight and highly configurable components and some handy home-made tools that help present a streamlined desktop.
 
 - tint2[^1] is used as a panel.
 

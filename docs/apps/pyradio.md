@@ -7,6 +7,8 @@
 
 It uses MPV, Mplayer or VLC to play streams.
 
+Mabox provides Pyradio with a predefined list of some interesting radio stations `~/.config/pyradio/stations.csv`
+
 [PyRadio on Github](https://github.com/coderholic/pyradio){target=blank}
 
 **Basic controls:**
