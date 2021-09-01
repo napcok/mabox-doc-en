@@ -73,8 +73,20 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |++ctrl+grave++|Quake Terminal|++super+g++|Galculator|
 |++super+w++|Web Browser|++super+e++|Editor Geany|
 |++super+v++|Volume control Pavucontrol|++super+c++|Enable/disable Compositor|
+|++super+r++|PyRadio|++super+alt+c++|Enable/Disable Conky|
 |++super+l++|Lock screen|++super+k++|xkill|
 |++super+slash++|Fsearch|++super+x++|Exit/Logout screen|
+
+##Helpers
+|Key|Action|
+|-:|-|
+|++super+alt+k++|Conky config menu|
+|++super+alt+p++|Tint2 panel config menu|
+|++super+alt+m++|Menu/Sidepanels config menu|
+|++super+alt+w++|Wallpaper config menu|
+|++super+alt+l++|ScreenLocker config menu|
+|++super+alt+e++|Espanso - text expander helper|
+|++super+f1++|Command Palette|
 
 ##System
 
