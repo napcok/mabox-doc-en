@@ -17,6 +17,7 @@ nav:
       - Settings Menu: configuration/settings-menu.md
       - Mabox Control Center: configuration/mcc.md
       - Autostart: configuration/autostart.md
+      - ObConf: configuration/obconf.md
       - Theming:
         - Theme Manager: configuration/theme-manager.md
         - GTK / Openbox / Icon theme: configuration/lxappearance.md
@@ -89,6 +90,7 @@ markdown_extensions:
     - abbr
     - meta
     - admonition
+    - def_list
     - pymdownx.details
     - pymdownx.superfences
     - attr_list
