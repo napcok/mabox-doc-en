@@ -37,8 +37,8 @@ In default installation here you will find...
 *Some programs installed and configured in Mabox, disabled by default. Enable them if you need.*
 
 - **ClipIt** - *clipboard manager*
-- **Volume Icon** - *volume control icon in system tray*
-- **GKrellm** - powerfull stack of system monitors (floating)
+- **[Volume Icon](../../apps/volume-icon/)** - *volume control icon in system tray*
+- **[GKrellm](../../apps/gkrellm/)** - powerfull stack of system monitors (floating)
 - **GKrellm in dock** - GkrellM placed in a dock (++super+alt+d++ to show/hide)
 - **Hot Corners** - (cornora)
 - **Blueman Applet** - *Bluetooth Manager*

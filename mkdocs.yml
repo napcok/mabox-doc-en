@@ -44,14 +44,17 @@ nav:
 #        - fpf - fuzzy package finder: apps/fpf.md
 #        - ytfzf - YT from terminal: apps/ytfzf.md
       - Other Apps:
-#        - GKrellm: apps/gkrellm.md
+        - GKrellM: apps/gkrellm.md
         - Volume Icon: apps/volume-icon.md
+#        - ClipIt: apps/clipit.md
+#        - Hot Corners (cornora): apps/cornora.md
     - Extras & Helpers:
       - Screenshot tool: extras/screenshot-tool.md
       - Command Palette: extras/command-palette.md
       - Logout Dialog: extras/mblogout.md
       - Espanso - text expander: extras/espanso.md
       - DesktopGrid: extras/desktopgrid.md
+#      - DeskMngr: extras/deskmngr.md
 
 extra_css:
   - css/extra.css
