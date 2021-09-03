@@ -75,6 +75,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+    - search.share
   palette:
     - scheme: default
       primary: blue grey

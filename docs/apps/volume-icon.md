@@ -1,6 +1,6 @@
 **Volume icon** is lightweight volume control for the system tray.
 
-It is installed but disabled by default in Mabox, because there are other ways to control soud volume configured:
+It is installed but disabled by default in Mabox, because there are other ways to control sound volume configured:
 
 - ++super+v++ is a key bind for **pavucontrol**
 - multimedia keys  ++"XF86AudioRaiseVolume"++ and ++"XF86AudioLowerVolume"++ are preconfigured and should work
