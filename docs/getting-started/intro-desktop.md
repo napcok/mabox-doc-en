@@ -45,7 +45,7 @@ Let's examine every panel element from left to right.
 Read more about [Tint2 panel configuration in Mabox](../../configuration/tint2/)
 ---
 ### Left Sidepanel launcher
-![Arrow Left](../../img/t2-arrow-left.jpg){ align=left }
+![Arrow Left](../img/t2-arrow-left.jpg){ align=left }
 
 **Arrow-left button**
 
@@ -53,7 +53,7 @@ is used to launch **Left Sidepanel** ++ctrl+super+left++
 
 ---
 ### Mabox Logo (*menu start*)
-![Mabox Logo](../../img/t2-mabox.jpg){ align=left }
+![Mabox Logo](../img/t2-mabox.jpg){ align=left }
 
 **Mabox logo button**
 
@@ -63,7 +63,7 @@ Right click on it will launch **Settings menu** ++super+s++
 
 ---
 ### Launcher
-![Tint2 Launcher](../../img/t2-launcher.jpg)
+![Tint2 Launcher](../img/t2-launcher.jpg)
 
 Next is **Launcher** with five icons by default:
 
@@ -81,7 +81,7 @@ Next is **Launcher** with five icons by default:
 
 ---
 ### Desktops tasklists
-![Desktop indicators and tasklists](../../img/t2-desktops-tasks.jpg)
+![Desktop indicators and tasklists](../img/t2-desktops-tasks.jpg)
 
 **Desktop indicators** and **tasklist**.
 
@@ -94,7 +94,7 @@ Task actions:
 
 ---
 ### System tray
-![Systray](../../img/t2-systray.jpg)
+![Systray](../img/t2-systray.jpg)
 
 **System tray** with simple resource monitor.
 Five monitors availabe, three enabled by default:
@@ -111,21 +111,21 @@ To configure/disable **Systray HW monitor** go to: **Settings menu** ++super+s++
 
 ---
 ### Clock
-![Clock](../../img/t2-clock.jpg)
+![Clock](../img/t2-clock.jpg)
 
 **Clock and date**.
 Click to show calendar.
 
 ---
 ### Logout
-![Logout Dialog](../../img/t2-logout.jpg){align=left}
+![Logout Dialog](../img/t2-logout.jpg){align=left}
 
 **Logout Dialog** ++super+x++
 
 
 ---
 ### Right Sidepanel launcher
-![Arrow Right](../../img/t2-arrow-right.jpg){ align=left }
+![Arrow Right](../img/t2-arrow-right.jpg){ align=left }
 
 **Arrow-right button**
 

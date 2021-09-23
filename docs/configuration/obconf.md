@@ -30,7 +30,7 @@
 :   Desktop margins are reserved areas on the edge of your screen. New windows will not be placed within a margin, and maximized windows will not cover them.
 
 `Dock`
-:   The dock is a special container for *dockapps*, or dock applications. It is not visible on screen intil a dockapp is run. Dockapps can be used to show things like a clock, or to provide you with a system tray.
+:   The dock is a special container for *dockapps*, or dock applications. It is not visible on screen until a dockapp is run. Dockapps can be used to show things like a clock, or to provide you with a system tray.
 
 !!! info "GKrellM monitors in the dock"
     Mabox comes with [GKrellM](../../apps/gkrellm/) preconfigured to run in a dock. It is disabled by default, but you can enable it by:

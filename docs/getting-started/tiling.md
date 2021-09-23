@@ -53,7 +53,7 @@ Click on the appropriate area of the window to snap it (on the grid) to given di
 Use ++ctrl+shift++ + click
 
 See areas...
-![Click to snap](../../img/clicksnap.png)
+![Click to snap](../img/clicksnap.png)
 
 
 This works with active and inactive windows, therefore it is very quick way to place them as you need.

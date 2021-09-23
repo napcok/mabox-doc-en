@@ -8,6 +8,7 @@
 ![](../../img/)
 
 ## Submenu to configure Tint2 in Mabox
+To configure Tint2 panel go to: 
 
 **Settings menu** ++super+s++ -> **Tint2 panels**
 

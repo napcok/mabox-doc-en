@@ -56,9 +56,9 @@ GKrellM comes with a few themes, many more can be installed with **gkrellm-theme
 ```
 yay -S gkrellm-themes
 ```
-![Gkrellm](../../img/gkrellm-bluemask.png)
-![Gkrellm](../../img/gkrellm-gtkstep.png)
-![Gkrellm](../../img/gkrellm-breeze.png)
-![Gkrellm](../../img/gkrellm-bluex4.png)
-![Gkrellm](../../img/gkrellm-4d-ladies.png)
-![Gkrellm](../../img/gkrellm-dune.png)
+![Gkrellm](../img/gkrellm-bluemask.png)
+![Gkrellm](../img/gkrellm-gtkstep.png)
+![Gkrellm](../img/gkrellm-breeze.png)
+![Gkrellm](../img/gkrellm-bluex4.png)
+![Gkrellm](../img/gkrellm-4d-ladies.png)
+![Gkrellm](../img/gkrellm-dune.png)

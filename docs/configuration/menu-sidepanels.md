@@ -7,7 +7,7 @@ Mabox Linux provides many Menu/Sidepanels colorschemes.
 
 To have a quick look at some of them you can use **Random menu colorscheme** located in **Left Sidepanel** ++ctrl+super+left++
 
-![Menu/Sidepanel settings](../../img/MSPsettings.png){align=left} Much more settings are available from submenu:
+![Menu/Sidepanel settings](../img/MSPsettings.png){align=left} Much more settings are available from submenu:
 
 **Left Sidepanel** ++ctrl+super+left++ -> **Menu/Sidepanels settings** *(this sumbenu can be also accessed directly: ++super+alt+m++)*
 

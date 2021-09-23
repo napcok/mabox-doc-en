@@ -89,4 +89,4 @@ th
 
 ```
 
-![](../../img/terminal-theme.gif)
+![](../img/terminal-theme.gif)

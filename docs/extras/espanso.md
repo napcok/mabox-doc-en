@@ -4,7 +4,7 @@
 Espanso detects when you type a keyword and replaces it while you're typing.
 
 _See it in action..._
-![Espanso - text expander](../../img/espanso.gif)
+![Espanso - text expander](../img/espanso.gif)
 
 This is useful in many ways:
 
