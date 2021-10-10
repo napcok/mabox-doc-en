@@ -72,7 +72,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |++super+t++|Terminal|++super+f++|Filemanager PCmanFM|
 |++ctrl+grave++|Quake Terminal|++super+g++|Galculator|
 |++super+w++|Web Browser|++super+e++|Editor Geany|
-|++super+v++|Volume control Pavucontrol|++super+c++|Enable/disable Compositor|
+|++super+v++|Volume control Pavucontrol|++super+p++|Enable/disable Picom|
 |++super+r++|PyRadio|++super+alt+c++|Enable/Disable Conky|
 |++super+l++|Lock screen|++super+k++|xkill|
 |++super+slash++|Fsearch|++super+x++|Exit/Logout screen|
@@ -87,6 +87,7 @@ In Mabox, useful keyboard shortcuts have been configured, which allow you to wor
 |++super+alt+l++|ScreenLocker config menu|
 |++super+alt+e++|Espanso - text expander helper|
 |++super+f1++|Command Palette|
+|++super+c++|Color Picker/manager|
 
 ##System
 

@@ -48,13 +48,15 @@ nav:
         - Volume Icon: apps/volume-icon.md
 #        - ClipIt: apps/clipit.md
 #        - Hot Corners (cornora): apps/cornora.md
-    - Extras & Helpers:
-      - Screenshot tool: extras/screenshot-tool.md
-      - Command Palette: extras/command-palette.md
-      - Logout Dialog: extras/mblogout.md
-      - Espanso - text expander: extras/espanso.md
-      - DesktopGrid: extras/desktopgrid.md
-#      - DeskMngr: extras/deskmngr.md
+    - Mabox Tools:
+      - mabox-tools/index.md
+      - Screenshot tool: mabox-tools/screenshot-tool.md
+      - Command Palette: mabox-tools/command-palette.md
+      - Logout Dialog: mabox-tools/mblogout.md
+      - Espanso - text expander: mabox-tools/espanso.md
+      - DesktopGrid: mabox-tools/desktopgrid.md
+      - Color picker/palette manager: mabox-tools/mbxcolors.md
+#      - DeskMngr: mabox-tools/deskmngr.md
 
 extra_css:
   - css/extra.css
@@ -75,6 +77,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+    - navigation.indexes
     - search.share
   palette:
     - scheme: default
