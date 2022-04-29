@@ -3,7 +3,7 @@ Mabox Linux is available for **64 bit** systems (**amd64**).
 
 ISO images with two kernel versions are available:
 
-- **linux510** – with the latest LTS kernel
+- **linux515** – with the latest LTS kernel
 - **linux54** – a slightly older LTS kernel that may better support some older hardware
 
 ## Download locations

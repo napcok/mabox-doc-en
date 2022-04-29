@@ -14,7 +14,7 @@ Select color from menu to paste its color hexadecimal code in place where cursor
 Features:
 
 * pick color from screen (color preview is available in bottom left corner of screen)
-* Two actions:
+* Two actions for color items:
     - **paste** - (default) type color code in place of cursor
     - **copy** - copy color code to clipboard
 * Three formats: **hexadecimal** (default), **RGB** and **RGBa**
@@ -22,3 +22,4 @@ Features:
 * Two example palettes available by default: Tango and Selenized Black
 * **HTML colors**
 * type to search - usefull for searching HTML colors by name
+
